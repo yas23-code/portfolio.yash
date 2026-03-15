@@ -20,7 +20,7 @@ Clean and minimal user interface
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-![Portfolio-Preview](public/images/preview.png)
+![Portfolio-Preview](public/images/yashsaraswat.png)
 
 🌍 Live Website
 
