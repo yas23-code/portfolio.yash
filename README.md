@@ -22,11 +22,6 @@ Clean and minimal user interface
 
 ![Portfolio-Preview](public/images/yashsaraswat.png)
 
-🌍 Live Website
-
-You can view the live portfolio here:
-
-https://your-portfolio-link.com
 
 ## License
 
